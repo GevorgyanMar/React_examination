@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "description": "Description of Inception...",
+      "year": 2010,
+      "country": "ABG",
+      "rating": 8.8,
+      "genres": ["Action", "Sci-Fi"],
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+      "imageUrl": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?cs=srgb&dl=pexels-pixabay-56866.jpg&fm=jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "2",
+      "title": "000Inception",
+      "description": "000Description of Inception...",
+      "year": 2020,
+      "country": "USA",
+      "rating": 8.3,
+      "genres": ["Action", "Sci-Fi"],
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+      "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/022/257/308/small_2x/rose-flower-pictures-beautiful-roses-love-rose-flower-beautiful-flowers-wallpapers-ai-generated-free-photo.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+    },
+    {
+      "id": "55",
+      "title": "TEST",
+      "description": "sdfebrhjt",
+      "year": "2",
+      "country": "Armenia",
+      "rating": "3",
+      "genres": [],
+      "actors": [],
+      "imageUrl": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?cs=srgb&dl=pexels-pixabay-56866.jpg&fm=jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+    },
+    {
+      "id": "445",
+      "title": "Hello",
+      "description": "sdawejkhzxjdce",
+      "year": "2014",
+      "country": "Yerevan",
+      "rating": "3",
+      "genres": "AA",
+      "actors": "Joh",
+      "imageUrl": "https://img.freepik.com/premium-psd/beautiful-rose-flower_650611-107.jpg",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+    }
+  ]
+}
